@@ -45,7 +45,7 @@ module.exports = {
 	ALWAYS_ONLINE: toBool(process.env.ALWAYS_ONLINE || "false"),
 	BGMBOT : toBool(process.env.BGMBOT || "false"),
 	API: "https://api-aswin-sparky.koyeb.app",
-	AUDIO_DATA: process.env.AUDIO_DATA || "X BOT MD;ASWIN SPARKY;https://url.aswinsparky.qzz.io/sparky.jpg",
+	AUDIO_DATA: process.env.AUDIO_DATA || "RONYBOT;MR RONY;https://url.aswinsparky.qzz.io/sparky.jpg",
 	AUTO_STATUS_VIEW: toBool(process.env.AUTO_STATUS_VIEW || "true"),
 	BOT_INFO: process.env.BOT_INFO || "X-BOT-MD;ASWIN SPARKY;https://url.aswinsparky.qzz.io/sparky.jpg",
 	CALL_BLOCK: toBool(process.env.CALL_BLOCK || "false"),
